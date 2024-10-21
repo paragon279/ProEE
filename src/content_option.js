@@ -37,7 +37,7 @@ const worktimeline = [{
         jobtitle: "Senior Electrical Engineer",
         where: "Meraqi Medical",
         date: "2019-2021",
-    // },
+     },
     // {
     //     jobtitle: "Electrical Engineer/Manager",
     //     where: "QuestPlay",
