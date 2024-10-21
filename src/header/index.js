@@ -15,7 +15,7 @@ const Headermain = () => {
 
   return (
     <>
-      <header className="fixed-top site__header" style={{background: 'white'}}>
+      <header className="fixed-top site__header" >
         <div className="d-flex align-items-center justify-content-between">
           <Link className="navbar-brand nav_ac" to="/">
             {logotext}
